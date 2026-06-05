@@ -1,0 +1,6 @@
+{
+  "name": "ashby-proxy",
+  "version": "1.0.0",
+  "description": "Ashby API proxy for Claude dashboard",
+  "private": true
+}
